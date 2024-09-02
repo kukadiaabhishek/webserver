@@ -1,0 +1,1137 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Browen Man Belt",
+            "slug": "browen-man-belt",
+            "price": 188,
+            "sale_price": 108,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_3_1_b0b071232b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_3_2_1556a2b735.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_3_1_b0b071232b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_3_2_1556a2b735.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_3_1_b0b071232b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_3_2_1556a2b735.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                },
+                {
+                    "name": "Clothes",
+                    "parent": null,
+                    "slug": "clothes"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Brown Bag Two",
+            "slug": "brown-bag-two",
+            "price": 199,
+            "sale_price": 99,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_12_1_c582f5acb0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_2_71a6d0cc1c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_3_fa44858b37.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_4_251a3fb796.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_12_1_c582f5acb0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_2_71a6d0cc1c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_3_fa44858b37.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_4_251a3fb796.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_12_1_c582f5acb0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_2_71a6d0cc1c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_3_fa44858b37.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_12_4_251a3fb796.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bags",
+                    "parent": null,
+                    "slug": "bags-2"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": " Business Bag",
+            "slug": "business-bag",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 166,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 199,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "gray",
+                        "color": "#808080"
+                    }
+                },
+                {
+                    "price": 184,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#808080"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_6_1_63489f2cfe.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_2_263a5248ca.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_3_81e16d3c33.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_4_8abe897212.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_6_1_63489f2cfe.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_2_263a5248ca.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_3_81e16d3c33.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_4_8abe897212.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_6_1_63489f2cfe.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_2_263a5248ca.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_3_81e16d3c33.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_6_4_8abe897212.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bags",
+                    "parent": null,
+                    "slug": "bags-2"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Fashion Watch One",
+            "slug": "fashion-watch-one",
+            "price": 199,
+            "sale_price": 99,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_10_1_64430142df.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_10_2_eff91ff0a1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_10_1_64430142df.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_10_2_eff91ff0a1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_10_1_64430142df.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_10_2_eff91ff0a1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Men Belt One",
+            "slug": "men-belt-one",
+            "price": 99,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_8_1_b75e6f9eb4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_8_2_96e9946af5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_8_1_b75e6f9eb4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_8_2_96e9946af5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_8_1_b75e6f9eb4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_8_2_96e9946af5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": " Men Clothes",
+            "slug": "men-clothes",
+            "price": 199,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_2_1_eee375af3e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_2_1_eee375af3e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_2_1_eee375af3e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Men Clothes One",
+            "slug": "men-clothes-one",
+            "price": 188,
+            "sale_price": 108,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_7_1_c06d2a6e8e.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_2_bf1d42b6a4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_3_da14b10c39.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_4_0209df9e4d.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_7_1_c06d2a6e8e.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_2_bf1d42b6a4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_3_da14b10c39.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_4_0209df9e4d.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_7_1_c06d2a6e8e.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_2_bf1d42b6a4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_3_da14b10c39.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_7_4_0209df9e4d.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                },
+                {
+                    "name": "Clothes",
+                    "parent": null,
+                    "slug": "clothes"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": " Old Man Cap",
+            "slug": "old-man-cap",
+            "price": 59,
+            "sale_price": 49,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_9_1_5f394c6256.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_2_a2bfbc2ed9.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_3_11ac5b13b6.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_9_1_5f394c6256.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_2_a2bfbc2ed9.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_3_11ac5b13b6.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_9_1_5f394c6256.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_2_a2bfbc2ed9.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/product_9_3_11ac5b13b6.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                },
+                {
+                    "name": "Clothes",
+                    "parent": null,
+                    "slug": "clothes"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Sport Shoes",
+            "slug": "sport-shoes",
+            "price": 399,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_5_1_9ca2fc6ee4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_2_4b959d3742.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_3_df98500531.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_4_b3d34afba2.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_5_1_9ca2fc6ee4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_2_4b959d3742.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_3_df98500531.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_4_b3d34afba2.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_5_1_9ca2fc6ee4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_2_4b959d3742.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_3_df98500531.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_5_4_b3d34afba2.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Shoes",
+                    "parent": null,
+                    "slug": "shoes-1"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": " Sunglasses One",
+            "slug": "sunglasses-one",
+            "price": 199,
+            "sale_price": 99,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 38,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_11_1_8927d265cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_2_7172347219.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_3_f343d4ab23.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_11_1_8927d265cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_2_7172347219.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_3_f343d4ab23.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_11_1_8927d265cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_2_7172347219.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_11_3_f343d4ab23.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Sunglasses",
+                    "parent": null,
+                    "slug": "sunglasses-2"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Woman Bag",
+            "slug": "woman-bag",
+            "price": 299,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_4_1_0e8e8c1454.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_4_2_0e0a4b5724.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_4_1_0e8e8c1454.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_4_2_0e0a4b5724.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_4_1_0e8e8c1454.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/product_4_2_0e0a4b5724.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bags",
+                    "parent": null,
+                    "slug": "bags-2"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Women Blouse",
+            "slug": "women-blouse",
+            "price": 399,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_1_1_fb3babd1e1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_1_1_fb3babd1e1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_1_1_fb3babd1e1.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Accessories",
+            "slug": "accessories-1",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "Shoes",
+            "slug": "shoes-1",
+            "parent": null
+        },
+        {
+            "id": 3,
+            "name": "Bags",
+            "slug": "bags-2",
+            "parent": null
+        },
+        {
+            "id": 4,
+            "name": "Clothes",
+            "slug": "clothes",
+            "parent": null
+        },
+        {
+            "id": 5,
+            "name": "Sunglasses",
+            "slug": "sunglasses-2",
+            "parent": null
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1820 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Casual Note Bag",
+			"slug": "casual-note-bag",
+			"price": 299,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "88",
+			"ratings": 4,
+			"reviews": 1,
+			"sale_count": 26,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_1_4_6f1367af44.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_1_d4c0bc54d3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_82511adb23.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_3_dfd989a305.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_1_4_6f1367af44.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_1_d4c0bc54d3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_82511adb23.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_3_dfd989a305.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_1_4_6f1367af44.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_1_d4c0bc54d3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_82511adb23.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_3_dfd989a305.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Com",
+					"parent": null,
+					"slug": "com"
+				},
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				},
+				{
+					"name": "Clothing",
+					"parent": null,
+					"slug": "clothing-3"
+				},
+				{
+					"name": "Shoes",
+					"parent": "Fashion",
+					"slug": "shoes-3"
+				}
+			],
+			"tags": [
+				{
+					"name": "Hub",
+					"slug": "hub"
+				},
+				{
+					"name": "Sports",
+					"slug": "sports"
+				},
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Brown Backpack",
+			"slug": "brown-backpack",
+			"price": 299,
+			"sale_price": 289,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "85",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 26,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				},
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Clothes",
+					"slug": "clothes"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Black Woman Underwear",
+			"slug": "black-woman-underwear",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+			"stock": "88",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 111,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "red",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "lightblue",
+						"color": "#7099bf"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_1_1_2c7d39bf62.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_0292257d64.jpg",
+					"width": 500,
+					"height": 500
+				},
+				{
+					"url": "/uploads/product_1_3_be250c584e.jpg",
+					"width": 500,
+					"height": 500
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_1_1_2c7d39bf62.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_0292257d64.jpg",
+					"width": 500,
+					"height": 500
+				},
+				{
+					"url": "/uploads/product_1_3_be250c584e.jpg",
+					"width": 500,
+					"height": 500
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_1_1_2c7d39bf62.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_1_2_0292257d64.jpg",
+					"width": 500,
+					"height": 500
+				},
+				{
+					"url": "/uploads/product_1_3_be250c584e.jpg",
+					"width": 500,
+					"height": 500
+				}
+			],
+			"categories": [
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				}
+			],
+			"brands": [
+				{
+					"name": "Adidas",
+					"slug": "adidas"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "Men Trouser",
+			"slug": "men-trouser",
+			"price": 299,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "90",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_2_1_7f1cc16c08.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_2_a535c4c6f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_fa17f9ab55.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_3_b88088a4ec.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_2_1_7f1cc16c08.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_2_a535c4c6f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_fa17f9ab55.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_3_b88088a4ec.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_2_1_7f1cc16c08.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_2_a535c4c6f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_fa17f9ab55.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_3_3_b88088a4ec.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Clothing",
+					"parent": null,
+					"slug": "clothing-3"
+				},
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				}
+			],
+			"tags": [
+				{
+					"name": "Hub",
+					"slug": "hub"
+				},
+				{
+					"name": "Sports",
+					"slug": "sports"
+				},
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Porto Black Belt",
+			"slug": "porto-black-belt",
+			"price": 39,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "90",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 15,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Porto Brown Bag",
+			"slug": "porto-brown-bag",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "90",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 28,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000",
+						"thumb": {
+							"url": "/uploads/product_4_2_150x150_eaa6803746.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000",
+						"thumb": {
+							"url": "/uploads/product_4_2_150x150_eaa6803746.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				},
+				{
+					"price": 111,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc",
+						"thumb": {
+							"url": "/uploads/product_4_1_150x150_7254d0c96b.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc",
+						"thumb": {
+							"url": "/uploads/product_4_1_150x150_7254d0c96b.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": " Porto Brown necklet",
+			"slug": "porto-brown-necklet",
+			"price": 49,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+			"stock": "99",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_9_1_e59b8db526.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_994e85d2e9.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_3_9d231b32e2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_4_3d7d336487.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_9_1_e59b8db526.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_994e85d2e9.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_3_9d231b32e2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_4_3d7d336487.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_9_1_e59b8db526.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_994e85d2e9.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_3_9d231b32e2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_4_3d7d336487.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				},
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Porto Pink Shoes",
+			"slug": "porto-pink-shoes",
+			"price": 120,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "44",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_6_1_c53ae4a10e.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_1_b9f627c251.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_3_62a72816b0.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_2_bd334b4962.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_6_1_c53ae4a10e.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_1_b9f627c251.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_3_62a72816b0.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_2_bd334b4962.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_6_1_c53ae4a10e.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_1_b9f627c251.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_3_62a72816b0.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_11_2_bd334b4962.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Shoes",
+					"parent": "Fashion",
+					"slug": "shoes-3"
+				},
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Porto Black Bag",
+			"slug": "porto-black-bag",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "43",
+			"ratings": 4,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 111,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "green",
+						"color": "#81d742"
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_99ca5c94e7.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_3_28e85461ca.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_4_8297e5b61e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_99ca5c94e7.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_3_28e85461ca.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_4_8297e5b61e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_99ca5c94e7.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_3_28e85461ca.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_4_8297e5b61e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Clothing",
+					"parent": null,
+					"slug": "clothing-3"
+				},
+				{
+					"name": "Shoes",
+					"parent": "Fashion",
+					"slug": "shoes-3"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": " Product Pink Bag",
+			"slug": "product-pink-bag",
+			"price": 108,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "76",
+			"ratings": 5,
+			"reviews": 1,
+			"sale_count": 26,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#0188cc"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "Women Bag",
+			"slug": "women-bag",
+			"price": 1999,
+			"sale_price": 1699,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "38",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 30,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_13_1_7eaf46c098.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_2_e9f9513f02.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_3_f14e90406d.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_4_cd3ea82728.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_13_1_7eaf46c098.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_2_e9f9513f02.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_3_f14e90406d.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_4_cd3ea82728.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_13_1_7eaf46c098.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_2_e9f9513f02.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_3_f14e90406d.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_13_4_cd3ea82728.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				},
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Sweater",
+					"slug": "sweater"
+				},
+				{
+					"name": "Clothes",
+					"slug": "clothes"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "Women Knee Breeches",
+			"slug": "women-knee-breeches",
+			"price": 55,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "76",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_13_1_fafa17bd61.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_3_d4e1195370.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_2_c5ec5763cb.jpg",
+					"width": 600,
+					"height": 600
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_13_1_fafa17bd61.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_3_d4e1195370.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_2_c5ec5763cb.jpg",
+					"width": 600,
+					"height": 600
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_13_1_fafa17bd61.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_3_d4e1195370.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_13_2_c5ec5763cb.jpg",
+					"width": 600,
+					"height": 600
+				}
+			],
+			"categories": [
+				{
+					"name": "Clothing",
+					"parent": null,
+					"slug": "clothing-3"
+				},
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				}
+			],
+			"tags": [
+				{
+					"name": "Skirt",
+					"slug": "skirt"
+				},
+				{
+					"name": "Shirt",
+					"slug": "shirt"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "Women Winter Shoes",
+			"slug": "women-winter-shoes",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "77",
+			"ratings": 5,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 299,
+					"sale_price": 209,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "green",
+						"color": "#81d742"
+					}
+				},
+				{
+					"price": 299,
+					"sale_price": 249,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "green",
+						"color": "#81d742"
+					}
+				},
+				{
+					"price": 289,
+					"sale_price": 249,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "indigo",
+						"color": "#6085a5"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/shop9_product2_af52777273.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/shop9_product2_af52777273.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/shop9_product2_af52777273.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Shoes",
+					"parent": "Fashion",
+					"slug": "shoes-3"
+				},
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Clothes",
+					"slug": "clothes"
+				}
+			]
+		}
+	],
+	"productCategories": [
+		{
+			"id": 1,
+			"name": "Toys",
+			"slug": "toys-1",
+			"parent": "Electronics"
+		},
+		{
+			"id": 2,
+			"name": "Headphone",
+			"slug": "headphone-3",
+			"parent": "Electronics"
+		},
+		{
+			"id": 3,
+			"name": "Watches",
+			"slug": "watches-2",
+			"parent": "Accessories"
+		},
+		{
+			"id": 4,
+			"name": "Shoes",
+			"slug": "shoes-3",
+			"parent": "Fashion"
+		},
+		{
+			"id": 5,
+			"name": "T-shirts",
+			"slug": "t-shirts",
+			"parent": "Fashion"
+		},
+		{
+			"id": 6,
+			"name": "Trousers",
+			"slug": "trousers-3",
+			"parent": "Fashion"
+		},
+		{
+			"id": 7,
+			"name": "Accessories",
+			"slug": "accessories-1",
+			"parent": null
+		},
+		{
+			"id": 8,
+			"name": "Electronics",
+			"slug": "electronics",
+			"parent": null
+		},
+		{
+			"id": 9,
+			"name": "Fashion",
+			"slug": "fashion",
+			"parent": null
+		},
+		{
+			"id": 10,
+			"name": "Clothing",
+			"slug": "clothing-3",
+			"parent": null
+		}
+	],
+	"posts": [
+		{
+			"id": 1,
+			"title": "Post Format Image Type",
+			"slug": "post-format-image-type",
+			"author": "John Doe",
+			"date": "2020-08-23",
+			"comments": 0,
+			"content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_1_29b9758e1b.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "News",
+					"slug": "news"
+				},
+				{
+					"name": "Model",
+					"slug": "model"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Post Format Image Gallery",
+			"slug": "post-format-image-gallery",
+			"author": "John Doe",
+			"date": "2020-08-27",
+			"comments": 0,
+			"content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+			"type": "gallery",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				},
+				{
+					"url": "/uploads/post_2_b5b34da229.jpg",
+					"width": 1280,
+					"height": 500
+				},
+				{
+					"url": "/uploads/post_1_29b9758e1b.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+					"width": 450,
+					"height": 230
+				},
+				{
+					"url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+					"width": 450,
+					"height": 230
+				},
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "News",
+					"slug": "news"
+				},
+				{
+					"name": "Chat",
+					"slug": "chat"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "Hello World!",
+			"slug": "hello-world",
+			"author": "John Doe",
+			"date": "2020-08-25",
+			"comments": 0,
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_2_b5b34da229.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Model",
+					"slug": "model"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "Post Format Image",
+			"slug": "post-format-image",
+			"author": "John Doe",
+			"date": "2020-08-27",
+			"comments": 0,
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Chat",
+					"slug": "chat"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "Post Format Video",
+			"slug": "post-format-video",
+			"author": "John Doe",
+			"date": "2020-10-22",
+			"comments": 0,
+			"content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+			"type": "video",
+			"video": true,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Traveling",
+					"slug": "traveling"
+				},
+				{
+					"name": "Bag",
+					"slug": "bag"
+				}
+			]
+		}
+	]
+}

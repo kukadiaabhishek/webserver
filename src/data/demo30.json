@@ -1,0 +1,1092 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Clasp Knife",
+            "slug": "clasp-knife",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_9_1_7f495463c5.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_2_c147840473.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_3_c396b57dd7.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_9_1_7f495463c5.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_2_c147840473.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_3_c396b57dd7.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_9_1_7f495463c5.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_2_c147840473.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_9_3_c396b57dd7.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "For Him",
+                    "parent": null,
+                    "slug": "for-him-1"
+                },
+                {
+                    "name": "Stationary",
+                    "parent": null,
+                    "slug": "stationary"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Fountain pen",
+            "slug": "fountain-pen",
+            "price": 49,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_8_1_368da48c92.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_2_ee2ec5a00f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_3_546b88a911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_8_1_368da48c92.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_2_ee2ec5a00f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_3_546b88a911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_8_1_368da48c92.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_2_ee2ec5a00f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_8_3_546b88a911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Stationary",
+                    "parent": null,
+                    "slug": "stationary"
+                },
+                {
+                    "name": "Personalized",
+                    "parent": null,
+                    "slug": "personalized"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Deli Highlight Pen",
+            "slug": "deli-highlight-pen",
+            "price": 49,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_7_1_93f6d1f18c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_2_4c15dcb64c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_3_8ca6c7d9bd.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_7_1_93f6d1f18c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_2_4c15dcb64c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_3_8ca6c7d9bd.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_7_1_93f6d1f18c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_2_4c15dcb64c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_7_3_8ca6c7d9bd.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Personalized",
+                    "parent": null,
+                    "slug": "personalized"
+                },
+                {
+                    "name": "For Her",
+                    "parent": null,
+                    "slug": "for-her-1"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Black Cup",
+            "slug": "black-cup",
+            "price": 59,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 28,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_4_1_9338596cb9.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_2_1798f5899f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_3_0a4a122a02.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_4_1_9338596cb9.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_2_1798f5899f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_3_0a4a122a02.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_4_1_9338596cb9.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_2_1798f5899f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_4_3_0a4a122a02.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Personalized",
+                    "parent": null,
+                    "slug": "personalized"
+                },
+                {
+                    "name": "For Him",
+                    "parent": null,
+                    "slug": "for-him-1"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": " Ceramic Panda Mug",
+            "slug": "ceramic-panda-mug",
+            "price": 49,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_10_1_d78d370077.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_2_a9be1a01ee.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_3_88049cff81.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_10_1_d78d370077.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_2_a9be1a01ee.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_3_88049cff81.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_10_1_d78d370077.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_2_a9be1a01ee.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_10_3_88049cff81.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "For Her",
+                    "parent": null,
+                    "slug": "for-her-1"
+                },
+                {
+                    "name": "For Kids",
+                    "parent": null,
+                    "slug": "for-kids-1"
+                },
+                {
+                    "name": "Fashion",
+                    "parent": null,
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Porto Diamond Aglet",
+            "slug": "porto-diamond-aglet",
+            "price": 129,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_5_1_70d19305f7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_2_b7c868f8cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_3_e7f3c4fe2b.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_5_1_70d19305f7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_2_b7c868f8cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_3_e7f3c4fe2b.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_5_1_70d19305f7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_2_b7c868f8cc.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_5_3_e7f3c4fe2b.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "For Her",
+                    "parent": null,
+                    "slug": "for-her-1"
+                },
+                {
+                    "name": "Fashion",
+                    "parent": null,
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Porto USB 2.0",
+            "slug": "porto-usb-2-0",
+            "price": 88,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_6_1_b6eea99a88.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_2_406817b85f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_3_a7a30eac6e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_6_1_b6eea99a88.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_2_406817b85f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_3_a7a30eac6e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_6_1_b6eea99a88.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_2_406817b85f.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_6_3_a7a30eac6e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "For Him",
+                    "parent": null,
+                    "slug": "for-him-1"
+                },
+                {
+                    "name": "For Kids",
+                    "parent": null,
+                    "slug": "for-kids-1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Porto Dotted Cup",
+            "slug": "porto-dotted-cup",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 29,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S",
+                        "thumb": {
+                            "url": "/uploads/shop30_product_3_1_150x150_2b25e8b0ad.jpg",
+                            "width": 150,
+                            "height": 150
+                        }
+                    }
+                },
+                {
+                    "price": 19,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M",
+                        "thumb": {
+                            "url": "/uploads/shop30_product_3_2_150x150_b726ff830a.jpg",
+                            "width": 150,
+                            "height": 150
+                        }
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_3_1_37195844e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_2_a65e9eaed3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_3_d6f1eed37e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_3_1_37195844e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_2_a65e9eaed3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_3_d6f1eed37e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_3_1_37195844e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_2_a65e9eaed3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_3_3_d6f1eed37e.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "parent": null,
+                    "slug": "fashion"
+                },
+                {
+                    "name": "For Her",
+                    "parent": null,
+                    "slug": "for-her-1"
+                },
+                {
+                    "name": "Kitchen",
+                    "parent": null,
+                    "slug": "kitchen"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Porto Heart Shape Candle Decorator",
+            "slug": "porto-heart-shape-candle-decorator",
+            "price": 199,
+            "sale_price": 109,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_2_1_bae90998f3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_2_66b8790ca0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_3_a59d35c6ea.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_2_1_bae90998f3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_2_66b8790ca0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_3_a59d35c6ea.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_2_1_bae90998f3.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_2_66b8790ca0.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_2_3_a59d35c6ea.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "parent": null,
+                    "slug": "fashion"
+                },
+                {
+                    "name": "For Kids",
+                    "parent": null,
+                    "slug": "for-kids-1"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": " Teddy Bear Blue",
+            "slug": "teddy-bear-blue",
+            "price": 159,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "70",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 10,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop30_product_1_1_98a4dc2803.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_2_d7a897838a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_3_a581f23a2f.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop30_product_1_1_98a4dc2803.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_2_d7a897838a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_3_a581f23a2f.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop30_product_1_1_98a4dc2803.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_2_d7a897838a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop30_product_1_3_a581f23a2f.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "For Her",
+                    "parent": null,
+                    "slug": "for-her-1"
+                },
+                {
+                    "name": "For Kids",
+                    "parent": null,
+                    "slug": "for-kids-1"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Fashion",
+            "slug": "fashion",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "Kitchen",
+            "slug": "kitchen",
+            "parent": null
+        },
+        {
+            "id": 3,
+            "name": "For Her",
+            "slug": "for-her-1",
+            "parent": null
+        },
+        {
+            "id": 4,
+            "name": "For Him",
+            "slug": "for-him-1",
+            "parent": null
+        },
+        {
+            "id": 5,
+            "name": "For Kids",
+            "slug": "for-kids-1",
+            "parent": null
+        },
+        {
+            "id": 6,
+            "name": "Personalized",
+            "slug": "personalized",
+            "parent": null
+        },
+        {
+            "id": 7,
+            "name": "Stationary",
+            "slug": "stationary",
+            "parent": null
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

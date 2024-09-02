@@ -1,0 +1,1254 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "The Night Before",
+            "slug": "the-night-before",
+            "price": 299,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product1_906edb2324.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product12_266ac76d3c.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product13_61c2cf8058.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product1_906edb2324.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product12_266ac76d3c.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product13_61c2cf8058.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product1_906edb2324.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product12_266ac76d3c.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product13_61c2cf8058.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Arts & Photography",
+                    "parent": null,
+                    "slug": "arts-and-photography"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Ask Again Yes",
+            "slug": "ask-again-yes",
+            "price": 299,
+            "sale_price": 259,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product14_f16429b1b2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_0984e08338.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product14_f16429b1b2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_0984e08338.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product14_f16429b1b2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_0984e08338.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Literature & Fiction",
+                    "parent": null,
+                    "slug": "literature-and-fiction"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Call an Audible",
+            "slug": "call-an-audible",
+            "price": 299,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 24,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Business & Investing",
+                    "parent": null,
+                    "slug": "business-and-investing"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Grey",
+            "slug": "grey-1",
+            "price": 55,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product18_bb0df43931.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product1_766399ed4b.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product18_bb0df43931.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product1_766399ed4b.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product18_bb0df43931.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product1_766399ed4b.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Arts & Photography",
+                    "parent": null,
+                    "slug": "arts-and-photography"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "I’ll Never Tell",
+            "slug": "i-ll-never-tell",
+            "price": 199,
+            "sale_price": 129,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_20770fbd87.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_04ea49eaad.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_20770fbd87.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_04ea49eaad.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product15_20770fbd87.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_04ea49eaad.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Mystery Suspense",
+                    "parent": null,
+                    "slug": "mystery-suspense"
+                },
+                {
+                    "name": "Literature & Fiction",
+                    "parent": null,
+                    "slug": "literature-and-fiction"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "On Earth We’re Briefly Gorgeous",
+            "slug": "on-earth-we-re-briefly-gorgeous",
+            "price": 199,
+            "sale_price": 129,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Business & Investing",
+                    "parent": null,
+                    "slug": "business-and-investing"
+                },
+                {
+                    "name": "Scifi Fantasy",
+                    "parent": null,
+                    "slug": "scifi-fantasy"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Queen Bee",
+            "slug": "queen-bee",
+            "price": 59,
+            "sale_price": 49,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product4_e3c277a34f.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product16_debc59ec70.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Mystery Suspense",
+                    "parent": null,
+                    "slug": "mystery-suspense"
+                },
+                {
+                    "name": "Literature & Fiction",
+                    "parent": null,
+                    "slug": "literature-and-fiction"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Sorcery of Thrones",
+            "slug": "sorcery-of-thrones",
+            "price": 599,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product11_3a093b0a01.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product9_f4e83b3c9e.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product8_0dfbc94db1.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Scifi Fantasy",
+                    "parent": null,
+                    "slug": "scifi-fantasy"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "The Bear and The Dragon",
+            "slug": "the-bear-and-the-dragon",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 20,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 101,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 108,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 111,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product7_3dcd3f0022.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product17_87e8de045a.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Mystery Suspense",
+                    "parent": null,
+                    "slug": "mystery-suspense"
+                },
+                {
+                    "name": "Literature & Fiction",
+                    "parent": null,
+                    "slug": "literature-and-fiction"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": " The Butterfly Garden",
+            "slug": "the-butterfly-garden",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "30",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#11426b"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "yellow",
+                        "color": "#eded65"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product3_4adb13a071.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product5_fe43c2fbdc.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Mystery Suspense",
+                    "parent": null,
+                    "slug": "mystery-suspense"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "The Guest Book",
+            "slug": "the-guest-book",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "30",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 101,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 108,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 105,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop25_product6_b5d46cc486.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product2_80f1c2d5c2.jpg",
+                    "width": 600,
+                    "height": 600
+                },
+                {
+                    "url": "/uploads/shop25_product10_1a7c017ab8.jpg",
+                    "width": 600,
+                    "height": 600
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Business & Investing",
+                    "parent": null,
+                    "slug": "business-and-investing"
+                },
+                {
+                    "name": "Scifi Fantasy",
+                    "parent": null,
+                    "slug": "scifi-fantasy"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Arts & Photography",
+            "slug": "arts-and-photography",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "Business & Investing",
+            "slug": "business-and-investing",
+            "parent": null
+        },
+        {
+            "id": 3,
+            "name": "Literature & Fiction",
+            "slug": "literature-and-fiction",
+            "parent": null
+        },
+        {
+            "id": 4,
+            "name": "Mystery Suspense",
+            "slug": "mystery-suspense",
+            "parent": null
+        },
+        {
+            "id": 5,
+            "name": "Scifi Fantasy",
+            "slug": "scifi-fantasy",
+            "parent": null
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1154 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Bicycle One",
+            "slug": "bicycle-one",
+            "price": 299,
+            "sale_price": 259,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_8_1_61f1cebc9c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_8_3_07954045b5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_8_1_61f1cebc9c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_8_3_07954045b5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_8_1_61f1cebc9c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_8_3_07954045b5.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bike Frames",
+                    "parent": "Accessories",
+                    "slug": "bike-frames"
+                },
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Bicycle Two",
+            "slug": "bicycle-two",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 199,
+                    "sale_price": 149,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 199,
+                    "sale_price": 129,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 199,
+                    "sale_price": 148,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_9_1_8bf65c5054.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_9_3_85159d5445.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_9_1_8bf65c5054.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_9_3_85159d5445.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_9_1_8bf65c5054.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_9_3_85159d5445.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Bicycle Three",
+            "slug": "bicycle-three",
+            "price": 299,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 10,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_10_1_cf67579f18.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_10_3_ef85d87a92.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_10_1_cf67579f18.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_10_3_ef85d87a92.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_10_1_cf67579f18.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_10_3_ef85d87a92.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Bicycle Four",
+            "slug": "bicycle-four",
+            "price": 99,
+            "sale_price": 59,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_11_1_3ee094bbf4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_11_3_cab1b4fe71.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_11_1_3ee094bbf4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_11_3_cab1b4fe71.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_11_1_3ee094bbf4.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_11_3_cab1b4fe71.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Bicycle Part One",
+            "slug": "bicycle-part-one",
+            "price": 59,
+            "sale_price": 49,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 26,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_1_1_25be18a02a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_1_3_5fd99dd620.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_1_1_25be18a02a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_1_3_5fd99dd620.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_1_1_25be18a02a.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_1_3_5fd99dd620.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Accessories",
+                    "parent": null,
+                    "slug": "accessories-1"
+                },
+                {
+                    "name": "Bike Tools",
+                    "parent": "Accessories",
+                    "slug": "bike-tools"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Bicycle Part Two",
+            "slug": "bicycle-part-two",
+            "price": 599,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+            "stock": "90",
+            "ratings": 3,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#11426b"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_2_1_de6d275161.jpg",
+                    "width": 900,
+                    "height": 900
+                },
+                {
+                    "url": "/uploads/shop27_Product_2_3_dc8d67a907.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_2_1_de6d275161.jpg",
+                    "width": 900,
+                    "height": 900
+                },
+                {
+                    "url": "/uploads/shop27_Product_2_3_dc8d67a907.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_2_1_de6d275161.jpg",
+                    "width": 900,
+                    "height": 900
+                },
+                {
+                    "url": "/uploads/shop27_Product_2_3_dc8d67a907.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bike Chains",
+                    "parent": "Accessories",
+                    "slug": "bike-chains"
+                },
+                {
+                    "name": "Bike Tools",
+                    "parent": "Accessories",
+                    "slug": "bike-tools"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Bicycle Five",
+            "slug": "bicycle-five",
+            "price": 199,
+            "sale_price": 129,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 28,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_6_1_07f766840c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_6_3_1c9004c8cb.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_6_1_07f766840c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_6_3_1c9004c8cb.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_6_1_07f766840c.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_6_3_1c9004c8cb.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Bicycle Part Three",
+            "slug": "bicycle-part-three",
+            "price": 299,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_3_1_c41ff5a8ed.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_3_3_94bc0662ec.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_3_1_c41ff5a8ed.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_3_3_94bc0662ec.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_3_1_c41ff5a8ed.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_3_3_94bc0662ec.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bike Frames",
+                    "parent": "Accessories",
+                    "slug": "bike-frames"
+                },
+                {
+                    "name": "Bike Tools",
+                    "parent": "Accessories",
+                    "slug": "bike-tools"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bicycle Part Four",
+            "slug": "bicycle-part-four",
+            "price": 55,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "90",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_4_1_56097a17ae.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_4_3_5feca1ddd6.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_4_1_56097a17ae.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_4_3_5feca1ddd6.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_4_1_56097a17ae.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_4_3_5feca1ddd6.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bike Pedals",
+                    "parent": "Accessories",
+                    "slug": "bike-pedals"
+                },
+                {
+                    "name": "Bike Frames",
+                    "parent": "Accessories",
+                    "slug": "bike-frames"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Bicycle Part Five",
+            "slug": "bicycle-part-five",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "90",
+            "ratings": 4,
+            "reviews": 2,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#11426b"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "yellow",
+                        "color": "#eded65"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_5_1_d028406ed1.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_5_3_bcd57102ab.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_5_1_d028406ed1.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_5_3_bcd57102ab.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_5_1_d028406ed1.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_5_3_bcd57102ab.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bike Saddles",
+                    "parent": "Accessories",
+                    "slug": "bike-saddles"
+                },
+                {
+                    "name": "Bike Pedals",
+                    "parent": "Accessories",
+                    "slug": "bike-pedals"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Bicycle Six",
+            "slug": "bicycle-six",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "90",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 101,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 108,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 105,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_7_1_b13fbe2d08.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_7_3_e800e24e9c.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop27_Product_7_1_b13fbe2d08.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_7_3_e800e24e9c.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop27_Product_7_1_b13fbe2d08.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop27_Product_7_3_e800e24e9c.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Bikes",
+                    "parent": null,
+                    "slug": "bikes"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Accessories",
+            "slug": "accessories-1",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "Bike Chains",
+            "slug": "bike-chains",
+            "parent": "Accessories"
+        },
+        {
+            "id": 3,
+            "name": "Bike Frames",
+            "slug": "bike-frames",
+            "parent": "Accessories"
+        },
+        {
+            "id": 4,
+            "name": "Bike Pedals",
+            "slug": "bike-pedals",
+            "parent": "Accessories"
+        },
+        {
+            "id": 5,
+            "name": "Bike Saddles",
+            "slug": "bike-saddles",
+            "parent": "Accessories"
+        },
+        {
+            "id": 6,
+            "name": "Bike Tools",
+            "slug": "bike-tools",
+            "parent": "Accessories"
+        },
+        {
+            "id": 7,
+            "name": "Bikes",
+            "slug": "bikes",
+            "parent": null
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

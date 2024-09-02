@@ -1,0 +1,1711 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Black Grey Headset",
+			"slug": "black-grey-headset",
+			"price": 39,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "87",
+			"ratings": 3.67,
+			"reviews": 3,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": "2021-06-17T19:00:00.000Z",
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#11426b"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_11_4_54014e00fe.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_1_317864d7d2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_2_109d5e9c3e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_3_edd1fe12e6.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_11_4_54014e00fe.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_1_317864d7d2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_2_109d5e9c3e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_3_edd1fe12e6.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_11_4_54014e00fe.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_1_317864d7d2.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_2_109d5e9c3e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_11_3_edd1fe12e6.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Watches",
+					"parent": "Cloth",
+					"slug": "watches-1"
+				},
+				{
+					"name": "Headphone",
+					"parent": "Com",
+					"slug": "headphone-1"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Blue Gentle Shoes",
+			"slug": "blue-gentle-shoes",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "72",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_7_3_1c5c0eed1b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_7_3_1c5c0eed1b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_7_3_1c5c0eed1b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Dress",
+					"parent": null,
+					"slug": "dress"
+				},
+				{
+					"name": "Trousers",
+					"parent": null,
+					"slug": "trousers-1"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Casual Blue Shoes",
+			"slug": "casual-blue-shoes",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "90",
+			"ratings": 5,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000",
+						"thumb": {
+							"url": "/uploads/product_7_1_150x150_aae3902c1a.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000",
+						"thumb": {
+							"url": "/uploads/product_7_1_150x150_aae3902c1a.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e",
+						"thumb": {
+							"url": "/uploads/product_7_2_150x150_655bd81b20.jpg",
+							"width": 150,
+							"height": 150
+						}
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_7_1_7c7512b077.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_70880b99d0.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_7_1_7c7512b077.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_70880b99d0.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_7_1_7c7512b077.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_2_70880b99d0.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Dress",
+					"parent": null,
+					"slug": "dress"
+				},
+				{
+					"name": "Trousers",
+					"parent": null,
+					"slug": "trousers-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Blue",
+					"slug": "blue"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": " Laptop Case Bag",
+			"slug": "laptop-case-bag",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "56",
+			"ratings": 4.5,
+			"reviews": 2,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 999,
+					"sale_price": 666,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 1499,
+					"sale_price": 1099,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "green",
+						"color": "#81d742"
+					}
+				},
+				{
+					"price": 888,
+					"sale_price": 444,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "indigo",
+						"color": "#6085a5"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_9_2_0c1a290690.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_9_1_55aca0ab66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				},
+				{
+					"name": "Headphone",
+					"parent": "Com",
+					"slug": "headphone-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Sweater",
+					"slug": "sweater"
+				},
+				{
+					"name": "Clothes",
+					"slug": "clothes"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"name": "Black Belt",
+			"slug": "black-belt",
+			"price": 1999,
+			"sale_price": 1699,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "65",
+			"ratings": 5,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_4_978ce42b25.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_4_978ce42b25.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_4_2_e3ff58fe6a.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_1f7f8d5b05.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_3_8817a2f81e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_4_978ce42b25.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				},
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"name": "Blue High Heel",
+			"slug": "blue-high-heel",
+			"price": 49,
+			"sale_price": 28,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "45",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#11426b"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "yellow",
+						"color": "#eded6f"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_2_1_4022c72ace.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_2_611accfaec.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_b38e7a918b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_4_20571e756e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_2_1_4022c72ace.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_2_611accfaec.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_b38e7a918b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_4_20571e756e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_2_1_4022c72ace.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_2_611accfaec.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_3_b38e7a918b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_2_4_20571e756e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Electronics",
+					"parent": null,
+					"slug": "electronics"
+				},
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				}
+			]
+		},
+		{
+			"id": 7,
+			"name": "Brown Backpack",
+			"slug": "brown-backpack",
+			"price": 299,
+			"sale_price": 289,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "85",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 26,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_3_2_c9830ba82e.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_3_1_6fcc6d6a8b.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				},
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				},
+				{
+					"name": "Toys",
+					"parent": "Electronics",
+					"slug": "toys-1"
+				}
+			],
+			"tags": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Clothes",
+					"slug": "clothes"
+				}
+			]
+		},
+		{
+			"id": 8,
+			"name": "Brown Long Shoes",
+			"slug": "brown-long-shoes",
+			"price": 299,
+			"sale_price": 259,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "76",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 30,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_7_2_65a89ecf88.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_1_adcf8d36f4.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_7_2_65a89ecf88.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_1_adcf8d36f4.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_7_2_65a89ecf88.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_7_1_adcf8d36f4.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Electronics",
+					"parent": null,
+					"slug": "electronics"
+				},
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				}
+			]
+		},
+		{
+			"id": 9,
+			"name": "Casual Brown Bag",
+			"slug": "casual-brown-bag",
+			"price": 69,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+			"stock": "69",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "blue",
+						"color": "#11426b"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				},
+				{
+					"price": null,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_8_1_49d4f0d22b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_2_004e4cea3e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_8_1_49d4f0d22b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_2_004e4cea3e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_8_1_49d4f0d22b.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_2_004e4cea3e.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Headphone",
+					"parent": "Electronics",
+					"slug": "headphone-3"
+				},
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				}
+			]
+		},
+		{
+			"id": 10,
+			"name": "High Heel Casual",
+			"slug": "high-heel-casual",
+			"price": 55,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "76",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_5_2_7ecf1636d5.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_5_1_696d77999f.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_5_2_7ecf1636d5.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_5_1_696d77999f.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_5_2_7ecf1636d5.jpg",
+					"width": 600,
+					"height": 600
+				},
+				{
+					"url": "/uploads/product_5_1_696d77999f.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Electronics",
+					"parent": null,
+					"slug": "electronics"
+				},
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				}
+			]
+		},
+		{
+			"id": 11,
+			"name": "Men Brown Belt",
+			"slug": "men-brown-belt",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "66",
+			"ratings": 4,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Large",
+						"size": "L"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_8_2_cf2b1648dd.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_4_b75cac4da3.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_8_2_cf2b1648dd.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_4_b75cac4da3.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_8_2_cf2b1648dd.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_8_4_b75cac4da3.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Dress",
+					"parent": null,
+					"slug": "dress"
+				},
+				{
+					"name": "Blouse",
+					"parent": null,
+					"slug": "blouse"
+				}
+			]
+		},
+		{
+			"id": 12,
+			"name": "Travel Bag",
+			"slug": "travel-bag",
+			"price": 299,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "88",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": true,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_1_f132b9940c.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_1_f132b9940c.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_6_2_5ed8e71b72.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_6_1_f132b9940c.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				},
+				{
+					"name": "Trousers",
+					"parent": "Fashion",
+					"slug": "trousers-3"
+				}
+			]
+		},
+		{
+			"id": 13,
+			"name": "Women Casual Bag Spring",
+			"slug": "women-casual-bag-spring",
+			"price": null,
+			"sale_price": null,
+			"short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+			"stock": "54",
+			"ratings": 5,
+			"reviews": 1,
+			"sale_count": 0,
+			"is_new": true,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [
+				{
+					"price": 101,
+					"sale_price": null,
+					"size": {
+						"name": "Extra Large",
+						"size": "XL"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 108,
+					"sale_price": null,
+					"size": {
+						"name": "Medium",
+						"size": "M"
+					},
+					"color": {
+						"name": "black",
+						"color": "#000000"
+					}
+				},
+				{
+					"price": 105,
+					"sale_price": null,
+					"size": {
+						"name": "Small",
+						"size": "S"
+					},
+					"color": {
+						"name": "red",
+						"color": "#ab6e6e"
+					}
+				}
+			],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_4_2_df45e02348.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_4_1_4000b10b66.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Dress",
+					"parent": null,
+					"slug": "dress"
+				},
+				{
+					"name": "Blouse",
+					"parent": null,
+					"slug": "blouse"
+				},
+				{
+					"name": "Clothing",
+					"parent": "Dress",
+					"slug": "clothing-2"
+				}
+			]
+		},
+		{
+			"id": 14,
+			"name": "Women Spring Casual Shoes",
+			"slug": "women-spring-casual-shoes",
+			"price": 299,
+			"sale_price": null,
+			"short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+			"stock": "46",
+			"ratings": 0,
+			"reviews": 0,
+			"sale_count": 0,
+			"is_new": null,
+			"is_hot": null,
+			"is_out_of_stock": null,
+			"rated": null,
+			"until": null,
+			"variants": [],
+			"large_pictures": [
+				{
+					"url": "/uploads/product_10_1_3e99c509a3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_2_b7f8c49e59.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_3_d9c30cf1f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_4_73009ada41.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"pictures": [
+				{
+					"url": "/uploads/product_10_1_3e99c509a3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_2_b7f8c49e59.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_3_d9c30cf1f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_4_73009ada41.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"small_pictures": [
+				{
+					"url": "/uploads/product_10_1_3e99c509a3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_2_b7f8c49e59.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_3_d9c30cf1f3.jpg",
+					"width": 800,
+					"height": 800
+				},
+				{
+					"url": "/uploads/product_10_4_73009ada41.jpg",
+					"width": 800,
+					"height": 800
+				}
+			],
+			"categories": [
+				{
+					"name": "Watches",
+					"parent": "Accessories",
+					"slug": "watches-2"
+				},
+				{
+					"name": "T-shirts",
+					"parent": "Fashion",
+					"slug": "t-shirts"
+				}
+			]
+		}
+	],
+	"productCategories": [
+		{
+			"id": 1,
+			"name": "Toys",
+			"slug": "toys-1",
+			"parent": "Electronics"
+		},
+		{
+			"id": 2,
+			"name": "Headphone",
+			"slug": "headphone-3",
+			"parent": "Electronics"
+		},
+		{
+			"id": 3,
+			"name": "Watches",
+			"slug": "watches-2",
+			"parent": "Accessories"
+		},
+		{
+			"id": 4,
+			"name": "T-shirts",
+			"slug": "t-shirts",
+			"parent": "Fashion"
+		},
+		{
+			"id": 5,
+			"name": "Trousers",
+			"slug": "trousers-3",
+			"parent": "Fashion"
+		},
+		{
+			"id": 6,
+			"name": "Dress",
+			"slug": "dress",
+			"parent": null
+		},
+		{
+			"id": 7,
+			"name": "Accessories",
+			"slug": "accessories-1",
+			"parent": null
+		},
+		{
+			"id": 8,
+			"name": "Electronics",
+			"slug": "electronics",
+			"parent": null
+		},
+		{
+			"id": 9,
+			"name": "Fashion",
+			"slug": "fashion",
+			"parent": null
+		},
+		{
+			"id": 10,
+			"name": "Blouse",
+			"slug": "blouse",
+			"parent": null
+		}
+	],
+	"posts": [
+		{
+			"id": 1,
+			"title": "Post Format Image Type",
+			"slug": "post-format-image-type",
+			"author": "John Doe",
+			"date": "2020-08-23",
+			"comments": 0,
+			"content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_1_29b9758e1b.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "News",
+					"slug": "news"
+				},
+				{
+					"name": "Model",
+					"slug": "model"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Post Format Image Gallery",
+			"slug": "post-format-image-gallery",
+			"author": "John Doe",
+			"date": "2020-08-27",
+			"comments": 0,
+			"content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+			"type": "gallery",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				},
+				{
+					"url": "/uploads/post_2_b5b34da229.jpg",
+					"width": 1280,
+					"height": 500
+				},
+				{
+					"url": "/uploads/post_1_29b9758e1b.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+					"width": 450,
+					"height": 230
+				},
+				{
+					"url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+					"width": 450,
+					"height": 230
+				},
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "News",
+					"slug": "news"
+				},
+				{
+					"name": "Chat",
+					"slug": "chat"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"title": "Hello World!",
+			"slug": "hello-world",
+			"author": "John Doe",
+			"date": "2020-08-25",
+			"comments": 0,
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_2_b5b34da229.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Model",
+					"slug": "model"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"title": "Post Format Image",
+			"slug": "post-format-image",
+			"author": "John Doe",
+			"date": "2020-08-27",
+			"comments": 0,
+			"content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+			"type": "image",
+			"video": false,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Fashion",
+					"slug": "fashion"
+				},
+				{
+					"name": "Chat",
+					"slug": "chat"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"title": "Post Format Video",
+			"slug": "post-format-video",
+			"author": "John Doe",
+			"date": "2020-10-22",
+			"comments": 0,
+			"content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+			"type": "video",
+			"video": true,
+			"picture": [
+				{
+					"url": "/uploads/post_3_674dffc858.jpg",
+					"width": 1280,
+					"height": 500
+				}
+			],
+			"small_picture": [
+				{
+					"url": "/uploads/post_3_450x230_827941d07c.jpg",
+					"width": 450,
+					"height": 230
+				}
+			],
+			"categories": [
+				{
+					"name": "Traveling",
+					"slug": "traveling"
+				},
+				{
+					"name": "Bag",
+					"slug": "bag"
+				}
+			]
+		}
+	]
+}

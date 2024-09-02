@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "News",
+        "slug": "news"
+    },
+    {
+        "id": 2,
+        "name": "Model",
+        "slug": "model"
+    },
+    {
+        "id": 3,
+        "name": "Chat",
+        "slug": "chat"
+    },
+    {
+        "id": 4,
+        "name": "Fashion",
+        "slug": "fashion"
+    },
+    {
+        "id": 5,
+        "name": "Bag",
+        "slug": "bag"
+    },
+    {
+        "id": 6,
+        "name": "Traveling",
+        "slug": "traveling"
+    },
+    {
+        "id": 7,
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+    },
+    {
+        "id": 8,
+        "name": "Design Trends",
+        "slug": "design-trends"
+    }
+]

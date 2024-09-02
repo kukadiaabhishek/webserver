@@ -1,0 +1,648 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "DUBLIN – HTML Template",
+            "slug": "dublin-html-template",
+            "price": 29,
+            "sale_price": 19,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_100198517b.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_100198517b.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_100198517b.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "HTML",
+                    "parent": "Themes",
+                    "slug": "html"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "OCIRCLY – HTML Template",
+            "slug": "ocircly-html-template",
+            "price": 59,
+            "sale_price": 49,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product6_1_53867dd723.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product6_1_53867dd723.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product6_1_53867dd723.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "HTML",
+                    "parent": "Themes",
+                    "slug": "html"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Portobe – Shopify Theme",
+            "slug": "portobe-shopify-theme",
+            "price": 99,
+            "sale_price": 89,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product7_1_cfdc9d157f.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product7_1_cfdc9d157f.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product7_1_cfdc9d157f.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "Shopify",
+                    "parent": "Themes",
+                    "slug": "shopify"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": " Portoblee – Responsive Theme",
+            "slug": "portoblee-responsive-theme",
+            "price": 59,
+            "sale_price": 39,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_0eae34d220.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_0eae34d220.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product1_1_0eae34d220.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Wordpress",
+                    "parent": "Themes",
+                    "slug": "wordpress"
+                },
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "PortoHUB – Magento Theme",
+            "slug": "porto-hub-magento-theme",
+            "price": 99,
+            "sale_price": 89,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product5_1_f15884ab1a.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product5_1_f15884ab1a.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product5_1_f15884ab1a.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "Magento",
+                    "parent": "Themes",
+                    "slug": "magento"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Shoport – eCommerce Theme",
+            "slug": "shoport-e-commerce-theme",
+            "price": 399,
+            "sale_price": 198,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 28,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product2_1_76adc67bd8.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product2_1_76adc67bd8.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product2_1_76adc67bd8.jpg",
+                    "width": 722,
+                    "height": 722
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "Shopify",
+                    "parent": "Themes",
+                    "slug": "shopify"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "xPorto – Responsive WordPress Theme",
+            "slug": "x-porto-responsive-word-press-theme",
+            "price": 59,
+            "sale_price": 49,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariat henderit in voluptate velit. non.",
+            "stock": "40",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop24_product3_1_70e0952911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop24_product3_1_70e0952911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop24_product3_1_70e0952911.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Themes",
+                    "parent": null,
+                    "slug": "themes"
+                },
+                {
+                    "name": "Wordpress",
+                    "parent": "Themes",
+                    "slug": "wordpress"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Themes",
+            "slug": "themes",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "HTML",
+            "slug": "html",
+            "parent": "Themes"
+        },
+        {
+            "id": 3,
+            "name": "Magento",
+            "slug": "magento",
+            "parent": "Themes"
+        },
+        {
+            "id": 4,
+            "name": "Shopify",
+            "slug": "shopify",
+            "parent": "Themes"
+        },
+        {
+            "id": 5,
+            "name": "Wordpress",
+            "slug": "wordpress",
+            "parent": "Themes"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Video Collection",
+            "slug": "post-format-video-collection",
+            "author": "John Doe",
+            "date": "2021-01-01",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s...",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post2_5f2593b07f.jpg",
+                    "width": 870,
+                    "height": 395
+                }
+            ],
+            "small_picture": [],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Standard Collection",
+            "slug": "post-format-standard-collection",
+            "author": "John Doe",
+            "date": "2021-01-04",
+            "comments": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post2_a444496f4f.jpg",
+                    "width": 870,
+                    "height": 395
+                }
+            ],
+            "small_picture": [],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

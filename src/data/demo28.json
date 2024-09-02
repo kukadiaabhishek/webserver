@@ -1,0 +1,442 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Porto Headphone",
+            "slug": "porto-headphone",
+            "price": 350,
+            "sale_price": null,
+            "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus nibh sed elimttis adipiscing. Fusce in hendrerit purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempus nibh sed elimttis adipiscing. Fusce in hendrerit purus.",
+            "stock": "30",
+            "ratings": 4,
+            "reviews": 1,
+            "sale_count": 20,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_carousel_1_2ecfa38330.jpg",
+                    "width": 670,
+                    "height": 670
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_landing_product_carousel_1_2ecfa38330.jpg",
+                    "width": 670,
+                    "height": 670
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_carousel_1_2ecfa38330.jpg",
+                    "width": 670,
+                    "height": 670
+                }
+            ],
+            "categories": []
+        },
+        {
+            "id": 2,
+            "name": "Porto Headphone One",
+            "slug": "porto-headphone-one",
+            "price": 350,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "80",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_1_9774ea58b6.png",
+                    "width": 939,
+                    "height": 939
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_landing_product_1_9774ea58b6.png",
+                    "width": 939,
+                    "height": 939
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_1_9774ea58b6.png",
+                    "width": 939,
+                    "height": 939
+                }
+            ],
+            "categories": []
+        },
+        {
+            "id": 3,
+            "name": "Porto Headphone Two",
+            "slug": "porto-headphone-two",
+            "price": 320,
+            "sale_price": null,
+            "short_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centurie",
+            "stock": "80",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 50,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_2_fcf43b2241.jpg",
+                    "width": 629,
+                    "height": 629
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_landing_product_2_fcf43b2241.jpg",
+                    "width": 629,
+                    "height": 629
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_2_fcf43b2241.jpg",
+                    "width": 629,
+                    "height": 629
+                }
+            ],
+            "categories": []
+        },
+        {
+            "id": 4,
+            "name": "Bluetooth Connection Headphone",
+            "slug": "bluetooth-connection-headphone",
+            "price": 320,
+            "sale_price": null,
+            "short_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_3_d2d92cbf65.jpg",
+                    "width": 463,
+                    "height": 463
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_landing_product_3_d2d92cbf65.jpg",
+                    "width": 463,
+                    "height": 463
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_3_d2d92cbf65.jpg",
+                    "width": 463,
+                    "height": 463
+                }
+            ],
+            "categories": []
+        },
+        {
+            "id": 5,
+            "name": "Extra Quantity Sound",
+            "slug": "extra-quantity-sound",
+            "price": 320,
+            "sale_price": null,
+            "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ac metus at elit malesuada tristique ut at est. Donec ut iaculis nunc. Nullam egestas nec erat a tincidunt. Mauris metus metus, bibendum id convallis non, commodo in lacus. Maecenas maximus consequat varius. Praesent ullamcorper non lectus ac ultrices.",
+            "stock": "60",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_4_870d2eb295.jpg",
+                    "width": 870,
+                    "height": 870
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_landing_product_4_870d2eb295.jpg",
+                    "width": 870,
+                    "height": 870
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_landing_product_4_870d2eb295.jpg",
+                    "width": 870,
+                    "height": 870
+                }
+            ],
+            "categories": []
+        },
+        {
+            "id": 6,
+            "name": "Porto Headphone Three",
+            "slug": "porto-headphone-three",
+            "price": 350,
+            "sale_price": null,
+            "short_description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vitae scelerisque elit. Vestibulum vulputate felis dolor. Nulla facilisi. Mauris mattis, sem non egestas euismod.",
+            "stock": "60",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/product_360_sprite_preview_05e3870372.jpg",
+                    "width": 1133,
+                    "height": 1133
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/product_360_sprite_preview_05e3870372.jpg",
+                    "width": 1133,
+                    "height": 1133
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/product_360_sprite_preview_05e3870372.jpg",
+                    "width": 1133,
+                    "height": 1133
+                }
+            ],
+            "categories": []
+        }
+    ],
+    "productCategories": [],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

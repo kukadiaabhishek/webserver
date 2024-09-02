@@ -1,0 +1,1614 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": " Backpack Sfs Responder",
+            "slug": "backpack-sfs-responder",
+            "price": 185,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product2_401d2e3b90.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product2_2_5608d90af6.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product2_401d2e3b90.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product2_2_5608d90af6.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product2_401d2e3b90.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product2_2_5608d90af6.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Girls",
+                    "parent": "Women",
+                    "slug": "girls-1"
+                },
+                {
+                    "name": "Watches",
+                    "parent": "Accessories",
+                    "slug": "watches-2"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": " Converse Chuck Quarter",
+            "slug": "converse-chuck-quarter",
+            "price": 14,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product9_ade051d7e6.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product9_2_46cc8694cf.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop18_product9_3_188d38d409.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product9_ade051d7e6.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product9_2_46cc8694cf.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop18_product9_3_188d38d409.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product9_ade051d7e6.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product9_2_46cc8694cf.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop18_product9_3_188d38d409.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Shoes",
+                    "parent": null,
+                    "slug": "shoes-1"
+                },
+                {
+                    "name": "Trousers",
+                    "parent": "Women",
+                    "slug": "trousers-2"
+                },
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Football Vapor 24/7",
+            "slug": "football-vapor-24-7",
+            "price": 25,
+            "sale_price": 20,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product1_18532e64c1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product1_2_5c737c8bf3.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product1_3_0768b0ecc6.jpg",
+                    "width": 795,
+                    "height": 795
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product1_18532e64c1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product1_2_5c737c8bf3.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product1_3_0768b0ecc6.jpg",
+                    "width": 795,
+                    "height": 795
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product1_18532e64c1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product1_2_5c737c8bf3.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product1_3_0768b0ecc6.jpg",
+                    "width": 795,
+                    "height": 795
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                },
+                {
+                    "name": "Men",
+                    "parent": null,
+                    "slug": "men"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Hat Black Suits",
+            "slug": "hat-black-suits",
+            "price": 30,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product12_76a4e8ced7.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_2_97216f65cf.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_3_4ebe260d05.jpg",
+                    "width": 753,
+                    "height": 753
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product12_76a4e8ced7.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_2_97216f65cf.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_3_4ebe260d05.jpg",
+                    "width": 753,
+                    "height": 753
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product12_76a4e8ced7.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_2_97216f65cf.jpg",
+                    "width": 650,
+                    "height": 650
+                },
+                {
+                    "url": "/uploads/shop18_product12_3_4ebe260d05.jpg",
+                    "width": 753,
+                    "height": 753
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                },
+                {
+                    "name": "Caps",
+                    "parent": "Accessories",
+                    "slug": "caps"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Hyperadapt Shield Lite",
+            "slug": "hyperadapt-shield-lite",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "indigo",
+                        "color": "#6085a5"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product6_016d61735a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product6_2_76e46fd16d.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product6_016d61735a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product6_2_76e46fd16d.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product6_016d61735a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product6_2_76e46fd16d.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Electronics",
+                    "parent": null,
+                    "slug": "electronics"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": " Hyperadapt Shield Lite Half-Zip",
+            "slug": "hyperadapt-shield-lite-half-zip",
+            "price": 299,
+            "sale_price": 260,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product7_9dba0e6d4d.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product7_2_a794234fc0.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product7_9dba0e6d4d.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product7_2_a794234fc0.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product7_9dba0e6d4d.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product7_2_a794234fc0.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Girls",
+                    "parent": "Women",
+                    "slug": "girls-1"
+                },
+                {
+                    "name": "Watches",
+                    "parent": "Accessories",
+                    "slug": "watches-2"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Clothes",
+                    "slug": "clothes"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jordan Flight",
+            "slug": "jordan-flight",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "100",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 102,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 109,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 99,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#0188cc"
+                    }
+                },
+                {
+                    "price": 105,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product5_11d590810b.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product5_2_20e17d2489.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product5_11d590810b.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product5_2_20e17d2489.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product5_11d590810b.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product5_2_20e17d2489.jpg",
+                    "width": 750,
+                    "height": 750
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Electronics",
+                    "parent": null,
+                    "slug": "electronics"
+                },
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jordan Hyper Grip Ot",
+            "slug": "jordan-hyper-grip-ot",
+            "price": 50,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product8_3ae5955017.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_2_d66b3031e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_3_1ab46d5a76.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product8_3ae5955017.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_2_d66b3031e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_3_1ab46d5a76.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product8_3ae5955017.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_2_d66b3031e7.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop18_product8_3_1ab46d5a76.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                },
+                {
+                    "name": "Men",
+                    "parent": null,
+                    "slug": "men"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Long-Length 2.0",
+            "slug": "long-length-2-0",
+            "price": 22,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product3_367e1b8d8a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product3_2_b3b6d6da8b.jpg",
+                    "width": 869,
+                    "height": 869
+                },
+                {
+                    "url": "/uploads/shop18_product3_3_300x300_bef2f8e47c.jpg",
+                    "width": 300,
+                    "height": 300
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product3_367e1b8d8a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product3_2_b3b6d6da8b.jpg",
+                    "width": 869,
+                    "height": 869
+                },
+                {
+                    "url": "/uploads/shop18_product3_3_300x300_bef2f8e47c.jpg",
+                    "width": 300,
+                    "height": 300
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product3_367e1b8d8a.jpg",
+                    "width": 750,
+                    "height": 750
+                },
+                {
+                    "url": "/uploads/shop18_product3_2_b3b6d6da8b.jpg",
+                    "width": 869,
+                    "height": 869
+                },
+                {
+                    "url": "/uploads/shop18_product3_3_300x300_bef2f8e47c.jpg",
+                    "width": 300,
+                    "height": 300
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                },
+                {
+                    "name": "Girls",
+                    "parent": "Women",
+                    "slug": "girls-1"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": " Man black pants",
+            "slug": "man-black-pants",
+            "price": 89,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+            "stock": "100",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#0188cc"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product10_9b4cb89ed1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product10_2_7be2123c49.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product10_3_df43f55410.jpg",
+                    "width": 620,
+                    "height": 620
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product10_9b4cb89ed1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product10_2_7be2123c49.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product10_3_df43f55410.jpg",
+                    "width": 620,
+                    "height": 620
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product10_9b4cb89ed1.jpg",
+                    "width": 620,
+                    "height": 620
+                },
+                {
+                    "url": "/uploads/shop18_product10_2_7be2123c49.jpg",
+                    "width": 719,
+                    "height": 719
+                },
+                {
+                    "url": "/uploads/shop18_product10_3_df43f55410.jpg",
+                    "width": 620,
+                    "height": 620
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Electronics",
+                    "parent": null,
+                    "slug": "electronics"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": " Nike Air Zoom Odyssey 2",
+            "slug": "nike-air-zoom-odyssey-2",
+            "price": 150,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product11_ac4340012d.jpg",
+                    "width": 550,
+                    "height": 550
+                },
+                {
+                    "url": "/uploads/shop18_product11_2_f71381910e.jpg",
+                    "width": 638,
+                    "height": 638
+                },
+                {
+                    "url": "/uploads/shop18_product11_3_a56426fffe.jpg",
+                    "width": 550,
+                    "height": 550
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product11_ac4340012d.jpg",
+                    "width": 550,
+                    "height": 550
+                },
+                {
+                    "url": "/uploads/shop18_product11_2_f71381910e.jpg",
+                    "width": 638,
+                    "height": 638
+                },
+                {
+                    "url": "/uploads/shop18_product11_3_a56426fffe.jpg",
+                    "width": 550,
+                    "height": 550
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product11_ac4340012d.jpg",
+                    "width": 550,
+                    "height": 550
+                },
+                {
+                    "url": "/uploads/shop18_product11_2_f71381910e.jpg",
+                    "width": 638,
+                    "height": 638
+                },
+                {
+                    "url": "/uploads/shop18_product11_3_a56426fffe.jpg",
+                    "width": 550,
+                    "height": 550
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Girls",
+                    "parent": "Women",
+                    "slug": "girls-1"
+                },
+                {
+                    "name": "Shoes",
+                    "parent": null,
+                    "slug": "shoes-1"
+                }
+            ],
+            "tags": [
+                {
+                    "name": "Hub",
+                    "slug": "hub"
+                },
+                {
+                    "name": "Sports",
+                    "slug": "sports"
+                },
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": " Swimming Cap Slin",
+            "slug": "swimming-cap-slin",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 99,
+                    "sale_price": 98,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 97,
+                    "sale_price": 96,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 96,
+                    "sale_price": 95,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#0188cc"
+                    }
+                },
+                {
+                    "price": 90,
+                    "sale_price": 89,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product15_6d990560b5.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product15_2_46ac11e2ca.jpg",
+                    "width": 811,
+                    "height": 811
+                },
+                {
+                    "url": "/uploads/shop18_product15_3_be33784c80.jpg",
+                    "width": 898,
+                    "height": 898
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product15_6d990560b5.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product15_2_46ac11e2ca.jpg",
+                    "width": 811,
+                    "height": 811
+                },
+                {
+                    "url": "/uploads/shop18_product15_3_be33784c80.jpg",
+                    "width": 898,
+                    "height": 898
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product15_6d990560b5.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product15_2_46ac11e2ca.jpg",
+                    "width": 811,
+                    "height": 811
+                },
+                {
+                    "url": "/uploads/shop18_product15_3_be33784c80.jpg",
+                    "width": 898,
+                    "height": 898
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Electronics",
+                    "parent": null,
+                    "slug": "electronics"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yard Bicycle",
+            "slug": "yard-bicycle",
+            "price": 149,
+            "sale_price": null,
+            "short_description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "blue",
+                        "color": "#0188cc"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Extra Large",
+                        "size": "XL"
+                    },
+                    "color": {
+                        "name": "indigo",
+                        "color": "#6085a5"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Small",
+                        "size": "S"
+                    },
+                    "color": {
+                        "name": "lightblue",
+                        "color": "#7bbad1"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Large",
+                        "size": "L"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                },
+                {
+                    "price": null,
+                    "sale_price": null,
+                    "size": {
+                        "name": "Medium",
+                        "size": "M"
+                    },
+                    "color": {
+                        "name": "red",
+                        "color": "#ab6e6e"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop18_product13_3534c5c8cc.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product13_2_fb9ea7c4c9.jpg",
+                    "width": 700,
+                    "height": 700
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop18_product13_3534c5c8cc.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product13_2_fb9ea7c4c9.jpg",
+                    "width": 700,
+                    "height": 700
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop18_product13_3534c5c8cc.jpg",
+                    "width": 700,
+                    "height": 700
+                },
+                {
+                    "url": "/uploads/shop18_product13_2_fb9ea7c4c9.jpg",
+                    "width": 700,
+                    "height": 700
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Electronics",
+                    "parent": null,
+                    "slug": "electronics"
+                },
+                {
+                    "name": "Boys",
+                    "parent": "Men",
+                    "slug": "boys-1"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Adidas",
+                    "slug": "adidas"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Watches",
+            "slug": "watches-2",
+            "parent": "Accessories"
+        },
+        {
+            "id": 2,
+            "name": "Accessories",
+            "slug": "accessories-1",
+            "parent": null
+        },
+        {
+            "id": 3,
+            "name": "Electronics",
+            "slug": "electronics",
+            "parent": null
+        },
+        {
+            "id": 4,
+            "name": "Caps",
+            "slug": "caps",
+            "parent": "Accessories"
+        },
+        {
+            "id": 5,
+            "name": "Boys",
+            "slug": "boys-1",
+            "parent": "Men"
+        },
+        {
+            "id": 6,
+            "name": "Girls",
+            "slug": "girls-1",
+            "parent": "Women"
+        },
+        {
+            "id": 7,
+            "name": "Men",
+            "slug": "men",
+            "parent": null
+        },
+        {
+            "id": 8,
+            "name": "Women",
+            "slug": "women",
+            "parent": null
+        },
+        {
+            "id": 9,
+            "name": "Trousers",
+            "slug": "trousers-2",
+            "parent": "Women"
+        },
+        {
+            "id": 10,
+            "name": "Shoes",
+            "slug": "shoes-1",
+            "parent": null
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}

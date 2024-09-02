@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Watches",
+        "slug": "watches-2",
+        "parent": "Accessories"
+    },
+    {
+        "name": "T-shirts",
+        "slug": "t-shirts",
+        "parent": "Fashion"
+    },
+    {
+        "name": "Dress",
+        "slug": "dress",
+        "parent": null
+    },
+    {
+        "name": "Women",
+        "slug": "women",
+        "parent": null
+    },
+    {
+        "name": "Trousers",
+        "slug": "trousers-1",
+        "parent": null
+    },
+    {
+        "name": "Headphone",
+        "slug": "headphone-2",
+        "parent": null
+    },
+    {
+        "name": "Shoes",
+        "slug": "shoes-1",
+        "parent": null
+    },
+    {
+        "name": "Toys",
+        "slug": "toys-5",
+        "parent": null
+    },
+    {
+        "name": "News",
+        "slug": "news"
+    },
+    {
+        "name": "Model",
+        "slug": "model"
+    },
+    {
+        "name": "Chat",
+        "slug": "chat"
+    },
+    {
+        "name": "Fashion",
+        "slug": "fashion"
+    },
+    {
+        "name": "Bag",
+        "slug": "bag"
+    },
+    {
+        "name": "Traveling",
+        "slug": "traveling"
+    },
+    {
+        "name": "Uncategorized",
+        "slug": "uncategorized"
+    },
+    {
+        "name": "Design Trends",
+        "slug": "design-trends"
+    }
+]

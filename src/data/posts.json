@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "title": "Post Format Image Type",
+        "slug": "post-format-image-type",
+        "author": "John Doe",
+        "date": "2020-08-23",
+        "comments": 0,
+        "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+        "type": "image",
+        "video": false,
+        "picture": [
+            {
+                "url": "/uploads/post_1_29b9758e1b.jpg",
+                "width": 1280,
+                "height": 500
+            }
+        ],
+        "small_picture": [
+            {
+                "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                "width": 450,
+                "height": 230
+            }
+        ],
+        "categories": [
+            {
+                "name": "News",
+                "slug": "news"
+            },
+            {
+                "name": "Model",
+                "slug": "model"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Post Format Image Gallery",
+        "slug": "post-format-image-gallery",
+        "author": "John Doe",
+        "date": "2020-08-27",
+        "comments": 0,
+        "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+        "type": "gallery",
+        "video": false,
+        "picture": [
+            {
+                "url": "/uploads/post_3_674dffc858.jpg",
+                "width": 1280,
+                "height": 500
+            },
+            {
+                "url": "/uploads/post_2_b5b34da229.jpg",
+                "width": 1280,
+                "height": 500
+            },
+            {
+                "url": "/uploads/post_1_29b9758e1b.jpg",
+                "width": 1280,
+                "height": 500
+            }
+        ],
+        "small_picture": [
+            {
+                "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                "width": 450,
+                "height": 230
+            },
+            {
+                "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                "width": 450,
+                "height": 230
+            },
+            {
+                "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                "width": 450,
+                "height": 230
+            }
+        ],
+        "categories": [
+            {
+                "name": "News",
+                "slug": "news"
+            },
+            {
+                "name": "Chat",
+                "slug": "chat"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Hello World!",
+        "slug": "hello-world",
+        "author": "John Doe",
+        "date": "2020-08-25",
+        "comments": 0,
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+        "type": "image",
+        "video": false,
+        "picture": [
+            {
+                "url": "/uploads/post_2_b5b34da229.jpg",
+                "width": 1280,
+                "height": 500
+            }
+        ],
+        "small_picture": [
+            {
+                "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                "width": 450,
+                "height": 230
+            }
+        ],
+        "categories": [
+            {
+                "name": "Fashion",
+                "slug": "fashion"
+            },
+            {
+                "name": "Model",
+                "slug": "model"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Post Format Image",
+        "slug": "post-format-image",
+        "author": "John Doe",
+        "date": "2020-08-27",
+        "comments": 0,
+        "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+        "type": "image",
+        "video": false,
+        "picture": [
+            {
+                "url": "/uploads/post_3_674dffc858.jpg",
+                "width": 1280,
+                "height": 500
+            }
+        ],
+        "small_picture": [
+            {
+                "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                "width": 450,
+                "height": 230
+            }
+        ],
+        "categories": [
+            {
+                "name": "Fashion",
+                "slug": "fashion"
+            },
+            {
+                "name": "Chat",
+                "slug": "chat"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Post Format Video",
+        "slug": "post-format-video",
+        "author": "John Doe",
+        "date": "2020-10-22",
+        "comments": 0,
+        "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+        "type": "video",
+        "video": true,
+        "picture": [
+            {
+                "url": "/uploads/post_3_674dffc858.jpg",
+                "width": 1280,
+                "height": 500
+            }
+        ],
+        "small_picture": [
+            {
+                "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                "width": 450,
+                "height": 230
+            }
+        ],
+        "categories": [
+            {
+                "name": "Traveling",
+                "slug": "traveling"
+            },
+            {
+                "name": "Bag",
+                "slug": "bag"
+            }
+        ]
+    }
+]

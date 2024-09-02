@@ -1,0 +1,1409 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Aerin Rose Oil One",
+            "slug": "aerin-rose-oil-one",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 30,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product1_43be9d6634_302e8ead5b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product1_2_f6913b7d35_851045d73a.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product1_3_155b8cf25c_aa1952c073.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product1_43be9d6634_302e8ead5b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product1_2_f6913b7d35_851045d73a.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product1_3_155b8cf25c_aa1952c073.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product1_43be9d6634_302e8ead5b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product1_2_f6913b7d35_851045d73a.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product1_3_155b8cf25c_aa1952c073.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Shampoo",
+                    "parent": "Hair",
+                    "slug": "shampoo"
+                },
+                {
+                    "name": "Styling",
+                    "parent": "Hair",
+                    "slug": "styling"
+                },
+                {
+                    "name": "Body Care",
+                    "parent": "Body",
+                    "slug": "body-care"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "AvantGarde",
+                    "slug": "avant-garde"
+                },
+                {
+                    "name": "Golden Grid",
+                    "slug": "golden-grid"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Cosmetic Bag One",
+            "slug": "cosmetic-bag-one",
+            "price": 9,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 10,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product17_4e5c984463.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product17_3_694c60d576.jpg",
+                    "width": 1026,
+                    "height": 1026
+                },
+                {
+                    "url": "/uploads/shop17_product17_2_901958c811.jpg",
+                    "width": 927,
+                    "height": 927
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product17_4e5c984463.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product17_3_694c60d576.jpg",
+                    "width": 1026,
+                    "height": 1026
+                },
+                {
+                    "url": "/uploads/shop17_product17_2_901958c811.jpg",
+                    "width": 927,
+                    "height": 927
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product17_4e5c984463.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product17_3_694c60d576.jpg",
+                    "width": 1026,
+                    "height": 1026
+                },
+                {
+                    "url": "/uploads/shop17_product17_2_901958c811.jpg",
+                    "width": 927,
+                    "height": 927
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Treatments",
+                    "parent": "Hair",
+                    "slug": "treatments"
+                },
+                {
+                    "name": "Bath & Shower",
+                    "parent": "Body",
+                    "slug": "bath-and-shower"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "AvantGarde",
+                    "slug": "avant-garde"
+                },
+                {
+                    "name": "Ron Jones",
+                    "slug": "ron-jones"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Eye lotion",
+            "slug": "eye-lotion",
+            "price": 59,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 26,
+            "is_new": null,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product7_28224fe681.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product7_2_3939e94b7f.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product7_3_2b20a526e3.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product7_28224fe681.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product7_2_3939e94b7f.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product7_3_2b20a526e3.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product7_28224fe681.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product7_2_3939e94b7f.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product7_3_2b20a526e3.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Serums",
+                    "parent": "Skincare",
+                    "slug": "serums"
+                },
+                {
+                    "name": "Eye Care",
+                    "parent": "Skincare",
+                    "slug": "eye-care"
+                },
+                {
+                    "name": "Eyes",
+                    "parent": "Makeup",
+                    "slug": "eyes-2"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Golden Grid",
+                    "slug": "golden-grid"
+                },
+                {
+                    "name": "Ron Jones",
+                    "slug": "ron-jones"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Face Powder One",
+            "slug": "face-powder-one",
+            "price": null,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [
+                {
+                    "price": 89,
+                    "sale_price": null,
+                    "color": {
+                        "name": "black",
+                        "color": "#000000"
+                    }
+                },
+                {
+                    "price": 79,
+                    "sale_price": null,
+                    "color": {
+                        "name": "pink",
+                        "color": "#f7dde2"
+                    }
+                },
+                {
+                    "price": 69,
+                    "sale_price": null,
+                    "color": {
+                        "name": "white",
+                        "color": "#f4f4f4"
+                    }
+                }
+            ],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product13_8d5a4c3038.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product13_2_dbe5ce9f78.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product13_3_d5d8ec4e56.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product13_8d5a4c3038.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product13_2_dbe5ce9f78.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product13_3_d5d8ec4e56.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product13_8d5a4c3038.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product13_2_dbe5ce9f78.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product13_3_d5d8ec4e56.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Body & Hair Mist",
+                    "parent": "Fragrance",
+                    "slug": "body-and-hair-mist"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "AvantGarde",
+                    "slug": "avant-garde"
+                },
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": " Hand Care Cream",
+            "slug": "hand-care-cream",
+            "price": 69,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product9_46483f4a5d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product9_2_c57d2b911c.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product9_3_d29e39d800.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product9_46483f4a5d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product9_2_c57d2b911c.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product9_3_d29e39d800.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product9_46483f4a5d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product9_2_c57d2b911c.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product9_3_d29e39d800.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Footcare",
+                    "parent": "Body",
+                    "slug": "footcare"
+                },
+                {
+                    "name": "Handcare",
+                    "parent": "Body",
+                    "slug": "handcare"
+                },
+                {
+                    "name": "Soap",
+                    "parent": "Fragrance",
+                    "slug": "soap"
+                },
+                {
+                    "name": "Exfoliators",
+                    "parent": "Skincare",
+                    "slug": "exfoliators"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Climb The Mountain",
+                    "slug": "climb-the-mountain"
+                },
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": " Lipstick One",
+            "slug": "lipstick-one",
+            "price": 90,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 5,
+            "reviews": 1,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product8_35a5a2fdbf.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product8_2_d7f2a980f3.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product8_3_6563b34e5b.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product8_35a5a2fdbf.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product8_2_d7f2a980f3.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product8_3_6563b34e5b.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product8_35a5a2fdbf.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product8_2_d7f2a980f3.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product8_3_6563b34e5b.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Lip Care",
+                    "parent": "Skincare",
+                    "slug": "lip-care"
+                },
+                {
+                    "name": "Lips",
+                    "parent": "Makeup",
+                    "slug": "lips-2"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Golden Grid",
+                    "slug": "golden-grid"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Summer High Hill One",
+            "slug": "summer-high-hill-one",
+            "price": 49,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product5_3311d2fdf8.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product5_2_81954c85e1.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product5_3_406bbc9e14.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product5_3311d2fdf8.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product5_2_81954c85e1.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product5_3_406bbc9e14.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product5_3311d2fdf8.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product5_2_81954c85e1.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product5_3_406bbc9e14.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Complexion",
+                    "parent": "Makeup",
+                    "slug": "complexion"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "Climb The Mountain",
+                    "slug": "climb-the-mountain"
+                },
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Toner",
+            "slug": "toner",
+            "price": 39,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 28,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": "2021-10-08T19:00:00.000Z",
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product2_f6cb0e1a8b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product2_2_71ad4266c5.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product2_3_eaede2d0db.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product2_f6cb0e1a8b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product2_2_71ad4266c5.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product2_3_eaede2d0db.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product2_f6cb0e1a8b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product2_2_71ad4266c5.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product2_3_eaede2d0db.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Cleansers",
+                    "parent": "Skincare",
+                    "slug": "cleansers"
+                },
+                {
+                    "name": "Toners",
+                    "parent": "Skincare",
+                    "slug": "toners"
+                },
+                {
+                    "name": "Body Sculpting",
+                    "parent": "Body",
+                    "slug": "body-sculpting"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "AvantGarde",
+                    "slug": "avant-garde"
+                },
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Woman Perfume",
+            "slug": "woman-perfume",
+            "price": 129,
+            "sale_price": 108,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": true,
+            "is_hot": true,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop34_product1_1_4e9772a42b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_2_ba2e657428.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_3_be57d22246.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop34_product1_1_4e9772a42b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_2_ba2e657428.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_3_be57d22246.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop34_product1_1_4e9772a42b.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_2_ba2e657428.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop34_product1_3_be57d22246.jpg",
+                    "width": 800,
+                    "height": 800
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Perfume",
+                    "parent": "Fragrance",
+                    "slug": "perfume"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "AvantGarde",
+                    "slug": "avant-garde"
+                },
+                {
+                    "name": "Ron Jones",
+                    "slug": "ron-jones"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Fashion High Hill One",
+            "slug": "fashion-high-hill-one",
+            "price": 29,
+            "sale_price": null,
+            "short_description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": "100",
+            "ratings": 0,
+            "reviews": 0,
+            "sale_count": 0,
+            "is_new": null,
+            "is_hot": null,
+            "is_out_of_stock": null,
+            "rated": null,
+            "until": null,
+            "variants": [],
+            "large_pictures": [
+                {
+                    "url": "/uploads/shop17_product11_e00467898d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product11_2_d7e5deb05e.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product11_3_3218463567.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "pictures": [
+                {
+                    "url": "/uploads/shop17_product11_e00467898d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product11_2_d7e5deb05e.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product11_3_3218463567.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "small_pictures": [
+                {
+                    "url": "/uploads/shop17_product11_e00467898d.jpg",
+                    "width": 800,
+                    "height": 800
+                },
+                {
+                    "url": "/uploads/shop17_product11_2_d7e5deb05e.jpg",
+                    "width": 927,
+                    "height": 927
+                },
+                {
+                    "url": "/uploads/shop17_product11_3_3218463567.jpg",
+                    "width": 1026,
+                    "height": 1026
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Face Masks",
+                    "parent": "Skincare",
+                    "slug": "face-masks"
+                },
+                {
+                    "name": "Makeup",
+                    "parent": null,
+                    "slug": "makeup"
+                },
+                {
+                    "name": "Conditioner",
+                    "parent": "Hair",
+                    "slug": "conditioner"
+                }
+            ],
+            "brands": [
+                {
+                    "name": "David Smith",
+                    "slug": "david-smith"
+                },
+                {
+                    "name": "Ron Jones",
+                    "slug": "ron-jones"
+                },
+                {
+                    "name": "Porto",
+                    "slug": "porto"
+                }
+            ]
+        }
+    ],
+    "productCategories": [
+        {
+            "id": 1,
+            "name": "Body",
+            "slug": "body",
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "Bath & Shower",
+            "slug": "bath-and-shower",
+            "parent": "Body"
+        },
+        {
+            "id": 3,
+            "name": "Body Care",
+            "slug": "body-care",
+            "parent": "Body"
+        },
+        {
+            "id": 4,
+            "name": "Body Sculpting",
+            "slug": "body-sculpting",
+            "parent": "Body"
+        },
+        {
+            "id": 5,
+            "name": "Footcare",
+            "slug": "footcare",
+            "parent": "Body"
+        },
+        {
+            "id": 6,
+            "name": "Handcare",
+            "slug": "handcare",
+            "parent": "Body"
+        },
+        {
+            "id": 7,
+            "name": "Fragrance",
+            "slug": "fragrance-1",
+            "parent": null
+        },
+        {
+            "id": 8,
+            "name": "Body & Hair Mist",
+            "slug": "body-and-hair-mist",
+            "parent": "Fragrance"
+        },
+        {
+            "id": 10,
+            "name": "Perfume",
+            "slug": "perfume",
+            "parent": "Fragrance"
+        },
+        {
+            "id": 11,
+            "name": "Soap",
+            "slug": "soap",
+            "parent": "Fragrance"
+        },
+        {
+            "id": 12,
+            "name": "Hair",
+            "slug": "hair",
+            "parent": null
+        },
+        {
+            "id": 13,
+            "name": "Conditioner",
+            "slug": "conditioner",
+            "parent": "Hair"
+        },
+        {
+            "id": 14,
+            "name": "Shampoo",
+            "slug": "shampoo",
+            "parent": "Hair"
+        },
+        {
+            "id": 15,
+            "name": "Styling",
+            "slug": "styling",
+            "parent": "Hair"
+        },
+        {
+            "id": 16,
+            "name": "Treatments",
+            "slug": "treatments",
+            "parent": "Hair"
+        },
+        {
+            "id": 17,
+            "name": "Makeup",
+            "slug": "makeup",
+            "parent": null
+        },
+        {
+            "id": 18,
+            "name": "Complexion",
+            "slug": "complexion",
+            "parent": "Makeup"
+        },
+        {
+            "id": 19,
+            "name": "Eyes",
+            "slug": "eyes-2",
+            "parent": "Makeup"
+        },
+        {
+            "id": 20,
+            "name": "Lips",
+            "slug": "lips-2",
+            "parent": "Makeup"
+        },
+        {
+            "id": 21,
+            "name": "Skincare",
+            "slug": "skincare",
+            "parent": null
+        },
+        {
+            "id": 22,
+            "name": "Cleansers",
+            "slug": "cleansers",
+            "parent": "Skincare"
+        },
+        {
+            "id": 23,
+            "name": "Exfoliators",
+            "slug": "exfoliators",
+            "parent": "Skincare"
+        },
+        {
+            "id": 24,
+            "name": "Eye Care",
+            "slug": "eye-care",
+            "parent": "Skincare"
+        },
+        {
+            "id": 25,
+            "name": "Face Masks",
+            "slug": "face-masks",
+            "parent": "Skincare"
+        },
+        {
+            "id": 26,
+            "name": "Lip Care",
+            "slug": "lip-care",
+            "parent": "Skincare"
+        },
+        {
+            "id": 27,
+            "name": "Serums",
+            "slug": "serums",
+            "parent": "Skincare"
+        },
+        {
+            "id": 28,
+            "name": "Toners",
+            "slug": "toners",
+            "parent": "Skincare"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Find the best cosmetics for your skin",
+            "slug": "find-the-best-cosmetics-for-your-skin",
+            "author": "John Doe",
+            "date": "2021-02-08",
+            "comments": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/shop34_post1_f02376fe6e.jpg",
+                    "width": 580,
+                    "height": 371
+                }
+            ],
+            "small_picture": [],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Essentials",
+                    "slug": "essentials"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Never run out of your favourites",
+            "slug": "never-run-out-of-your-favourites",
+            "author": "John Doe",
+            "date": "2021-02-15",
+            "comments": 0,
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras non placerat mi. Etiam non tellus sem. Aenean pretium convallis lorem, sit amet dapibus ante mollis a. Integer bibendum interdum sem, eget volutpat purus pulvinar in. Sed tristique augue vitae sagittis porta",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/shop34_post2_77e23662df.jpg",
+                    "width": 580,
+                    "height": 371
+                }
+            ],
+            "small_picture": [],
+            "categories": [
+                {
+                    "name": "Essentials",
+                    "slug": "essentials"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Post Format Image Type",
+            "slug": "post-format-image-type",
+            "author": "John Doe",
+            "date": "2020-08-23",
+            "comments": 0,
+            "content": "Proin ut ante vitae magna cursus porta. Aenean rutrum faucibus augue eu convallis. Phasellus condimentum elit id cursus sodales. Vivamus nec est consectetur, tincidunt augue at, tempor libero.",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Post Format Image Gallery",
+            "slug": "post-format-image-gallery",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "uismod atras vulputate iltricies etri elit. Class aptent taciti sociosqu ad litora. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque tempor tellus eget hendrerit.",
+            "type": "gallery",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                },
+                {
+                    "url": "/uploads/post_1_29b9758e1b.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_1_450x230_e8ab17ad7f.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                },
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "News",
+                    "slug": "news"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Hello World!",
+            "slug": "hello-world",
+            "author": "John Doe",
+            "date": "2020-08-25",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_2_b5b34da229.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_2_450x230_0b7cc25c91.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Model",
+                    "slug": "model"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Post Format Image",
+            "slug": "post-format-image",
+            "author": "John Doe",
+            "date": "2020-08-27",
+            "comments": 0,
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and",
+            "type": "image",
+            "video": false,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Fashion",
+                    "slug": "fashion"
+                },
+                {
+                    "name": "Chat",
+                    "slug": "chat"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Post Format Video",
+            "slug": "post-format-video",
+            "author": "John Doe",
+            "date": "2020-10-22",
+            "comments": 0,
+            "content": "Leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages more recently with desktop publishing software like Aldus.",
+            "type": "video",
+            "video": true,
+            "picture": [
+                {
+                    "url": "/uploads/post_3_674dffc858.jpg",
+                    "width": 1280,
+                    "height": 500
+                }
+            ],
+            "small_picture": [
+                {
+                    "url": "/uploads/post_3_450x230_827941d07c.jpg",
+                    "width": 450,
+                    "height": 230
+                }
+            ],
+            "categories": [
+                {
+                    "name": "Traveling",
+                    "slug": "traveling"
+                },
+                {
+                    "name": "Bag",
+                    "slug": "bag"
+                }
+            ]
+        }
+    ]
+}
